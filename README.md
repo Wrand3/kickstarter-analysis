@@ -2,7 +2,8 @@
 Performing analysis on Kickstarter data to uncover trends.
 
 For this project, we have Louise an up and coming playwright. Louise wants to start a crowdfunding campaign to help fund her play, Fever. She is estimating a budget of over $10000, with the database that we have been presented, we want to share meaningful insights so she can make the best decision.
-With the help of Kickstarter data analytics, we count with a database with a vast range of crowdfunding categories, considering international markets from 2009 to 2017.  
+With the help of Kickstarter data analytics, we count with a database with a vast range of crowdfunding categories, considering international markets from 2009 to 2017.  [kickstarter-analysis](kickstarter-analysis.xlsx)
+
 First, let's consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. We would like to know if a shorter or longer campaign is more effective, or if there is a certain time of year when campaigns tend to be more successful
 
 ![outcomes_based_on_launch_date](outcomes_based_on_launch_date.png)
